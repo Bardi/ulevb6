@@ -1,0 +1,6 @@
+ULEVB6 BOARD
+M:	bardi <bardi4567@gmail.com>
+S:	Maintained
+F:	board/ulevb/elevb6
+F:	include/configs/ulevb6.h
+F:	configs/ulevb6_defconfig
