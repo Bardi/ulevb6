@@ -1,0 +1,8 @@
+MX6ULEVB6 BOARD
+M:	bardi <bardi4567@gmail.com>
+S:	Maintained
+F:	board/ulevb/mx6ulevb6/
+F:	include/configs/mx6ulevb6.h
+F:	configs/mx6dlulevb6_defconfig
+F:	configs/mx6qulevb6_defconfig
+F:	configs/mx6ulevb6_spl_defconfig
